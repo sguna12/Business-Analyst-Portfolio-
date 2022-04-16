@@ -1,5 +1,5 @@
 # Business-Analyst-Portfolio 
-Hi, my name is Sanjana Gunaprakash and I work at Keystone Property Management as project coordinator. I hold Bachelor’s degree in English, Language, literature and writing from Eastern Michigan University. I am transitioning from project coordinator role to business analyst role. Some of the class projects on this page for you to review. 
+Hi, my name is Sanjana Gunaprakash and I work at Keystone Property Management as project coordinator. I hold Bachelor’s degree in english, language, literature and writing from Eastern Michigan University. I am transitioning from project coordinator role to business analyst role. Some of the class projects on this page for you to review. 
 
 Since young I love to read, analyze, solve puzzle and come up with solution to any given situation. That’s how I look at any situation on how to make things better, as one big puzzle.
 
