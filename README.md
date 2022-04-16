@@ -4,7 +4,7 @@ This is a portfolio that I have created to share my projects that I have worked 
 Current Status of the Managment- 
 [Current Status.pdf](https://github.com/sguna12/Business-Analyst-Portfolio-/files/8499335/Current.Status.pdf)
 
-Future Status of the managment- 
+Future Status of the Managment- 
 [Future Status-1.pdf](https://github.com/sguna12/Business-Analyst-Portfolio-/files/8499329/Future.Status-1.pdf)
 
 Organizational Chat of the Management-
