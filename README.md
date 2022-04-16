@@ -19,17 +19,17 @@ Elicitation Approach-
 Risk Register-
 [Risk Management 6.xlsx](https://github.com/sguna12/Business-Analyst-Portfolio-/files/8499350/WEEK-7.Risk.Management.6.xlsx)
 
-Communication Plan--
+Communication Plan-
 [Communication Plan.docx](https://github.com/sguna12/Business-Analyst-Portfolio-/files/8499353/Week-10.Communication.Plan.docx)
 
 Business Requirment Document-
 [Business Requirment Document.docx](https://github.com/sguna12/Business-Analyst-Portfolio-/files/8499357/Week9-.BRD.docx)
 
-Resource Matrix--
+Resource Matrix-
 [Resource Matrix.pdf](https://github.com/sguna12/Business-Analyst-Portfolio-/files/8499364/Resource.Matrix.pdf)
 
-Work Breakdown Stucture--
-[Work Breakdown Structure. Responsbility Matrix. Gunaprakash.xlsx…]()
+Work Breakdown Stucture-
+[Work Breakdown Structure. Responsbility Matrix. Gunaprakash.xlsx]()
 
 Project Charter
 [ProjectCharter.Gunaprakash.docx]()
