@@ -19,7 +19,7 @@ Elicitation Approach-
 Risk Register-
 [Risk Management 6.xlsx](https://github.com/sguna12/Business-Analyst-Portfolio-/files/8499350/WEEK-7.Risk.Management.6.xlsx)
 
-Coomunication Plan--
+Communication Plan--
 [Communication Plan.docx](https://github.com/sguna12/Business-Analyst-Portfolio-/files/8499353/Week-10.Communication.Plan.docx)
 
 Business Requirment Document-
